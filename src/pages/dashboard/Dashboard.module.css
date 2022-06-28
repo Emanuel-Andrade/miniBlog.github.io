@@ -1,0 +1,16 @@
+.title{
+    font-size: 2em;
+    font-style: italic;
+}
+.subtitle {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1.5em;
+
+}
+
+
+
+.dashboard {
+    border-bottom: 1px solid #ccc;
+
+}

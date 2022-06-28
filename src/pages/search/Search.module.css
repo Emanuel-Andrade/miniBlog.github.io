@@ -1,0 +1,10 @@
+.searchForm{
+    display: flex;
+}
+
+
+.searchForm input {
+    margin-right: 10px;
+    width: 70%;
+    color: #aaa;
+}
